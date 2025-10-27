@@ -1,0 +1,60 @@
+@font-face {
+  font-family: "Normalidad";
+  src: url("../fonts/fonnts.com-Normalidad_VF.otf") format("truetype");
+  font-style: normal;
+  font-weight: 200;
+}
+@font-face {
+  font-family: "Normalidad";
+  src: url("../fonts/fonnts.com-Normalidad_Wide_Black.otf") format("truetype");
+  font-style: normal;
+  font-weight: 900;
+}
+@font-face {
+  font-family: "Normalidad";
+  src: url("../fonts/fonnts.com-Normalidad_Wide_Bold.otf") format("truetype");
+  font-style: normal;
+  font-weight: 700;
+}
+@font-face {
+  font-family: "Normalidad";
+  src: url("../fonts/fonnts.com-Normalidad_Wide_Medium.otf") format("truetype");
+  font-style: normal;
+  font-weight: 600;
+}
+@font-face {
+  font-family: "Normalidad";
+  src: url("../fonts/fonnts.com-Normalidad_Wide_Regular.otf") format("truetype");
+  font-style: normal;
+  font-weight: 400;
+}
+@font-face {
+  font-family: "Normalidad";
+  src: url("../fonts/fonnts.com-Normalidad_Wide_Thin.otf") format("truetype");
+  font-style: normal;
+  font-weight: 200;
+}
+@font-face {
+  font-family: "Normalidad";
+  src: url("../fonts/fonnts.com-Normalidad_Wide_Light.otf") format("truetype");
+  font-style: normal;
+  font-weight: 100;
+}
+@font-face {
+  font-family: "Normalidad";
+  src: url("../fonts/normalidad-wide-var.ttf") format("truetype");
+  font-style: normal;
+  font-weight: 400;
+}
+@font-face {
+  font-family: "Normalidad";
+  src: url("../fonts/Normalidad\ Var.ttf") format("truetype");
+  font-style: normal;
+  font-weight: 400;
+}
+@font-face {
+  font-family: "Normalidad";
+  src: url("../fonts/NormalidadVar-Regular.ttf") format("truetype");
+  font-style: normal;
+  font-weight: 400;
+}
