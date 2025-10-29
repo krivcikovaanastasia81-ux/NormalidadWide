@@ -14,13 +14,13 @@
   font-family: "Normalidad";
   src: url("../fonts/fonnts.com-Normalidad_Wide_Bold.otf") format("truetype");
   font-style: normal;
-  font-weight: 700;
+  font-weight: 800;
 }
 @font-face {
   font-family: "Normalidad";
   src: url("../fonts/fonnts.com-Normalidad_Wide_Medium.otf") format("truetype");
   font-style: normal;
-  font-weight: 600;
+  font-weight: 700;
 }
 @font-face {
   font-family: "Normalidad";
@@ -44,17 +44,17 @@
   font-family: "Normalidad";
   src: url("../fonts/normalidad-wide-var.ttf") format("truetype");
   font-style: normal;
-  font-weight: 400;
+  font-weight: 410;
 }
 @font-face {
   font-family: "Normalidad";
   src: url("../fonts/Normalidad\ Var.ttf") format("truetype");
   font-style: normal;
-  font-weight: 400;
+  font-weight: 420;
 }
 @font-face {
   font-family: "Normalidad";
   src: url("../fonts/NormalidadVar-Regular.ttf") format("truetype");
   font-style: normal;
-  font-weight: 400;
+  font-weight: 430;
 }
