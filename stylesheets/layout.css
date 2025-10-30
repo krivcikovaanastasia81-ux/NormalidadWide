@@ -2,6 +2,7 @@
   box-sizing: border-box;
 }
 body {
+  background-color: rgba(195, 27, 28, 1);
   width: 1440px;
   display: block;
   margin: 0 auto;
@@ -168,6 +169,7 @@ p {
   height: 689px;
   position: relative;
 }
+/*
 .section-3::after {
   content: "";
   position: absolute;
@@ -178,6 +180,7 @@ p {
   background-image: url("../images/3.png");
   opacity: 20%;
 }
+  */
 .div-s3 {
   position: absolute;
   top: 0px;
@@ -215,4 +218,266 @@ p {
   left: 1170px;
   color: white;
   width: 500px;
+}
+.p31-s3 {
+  display: block;
+  position: absolute;
+  top: 145px;
+  left: 180px;
+  color: white;
+  width: 30px;
+}
+.p32-s3 {
+  display: block;
+  position: absolute;
+  top: 200px;
+  left: 180px;
+  color: white;
+  width: 30px;
+  line-height: 75px;
+}
+.span1-s3 {
+  font-weight: 900;
+  color: rgba(195, 27, 28, 1);
+}
+.span2-s3 {
+  font-weight: 800;
+  color: rgba(195, 27, 28, 1);
+}
+.span3-s3 {
+  font-weight: 700;
+  color: rgba(195, 27, 28, 1);
+}
+.span4-s3 {
+  font-weight: 600;
+  color: rgba(195, 27, 28, 1);
+}
+.span5-s3 {
+  font-weight: 400;
+  color: rgb(235, 17, 17);
+}
+.span6-s3 {
+  font-weight: 100;
+  color: rgb(235, 17, 17);
+}
+.p41-s3 {
+  display: block;
+  position: absolute;
+  top: 145px;
+  left: 300px;
+  color: white;
+  width: 30px;
+}
+.p42-s3 {
+  display: block;
+  position: absolute;
+  top: 200px;
+  left: 300px;
+  color: white;
+  width: 30px;
+  line-height: 75px;
+}
+.p51-s3 {
+  display: block;
+  position: absolute;
+  top: 145px;
+  left: 845px;
+  color: white;
+  width: 30px;
+}
+.p52-s3 {
+  display: block;
+  position: absolute;
+  top: 200px;
+  left: 845px;
+  color: white;
+  width: 30px;
+  line-height: 75px;
+}
+.p61-s3 {
+  display: block;
+  position: absolute;
+  top: 145px;
+  left: 1040px;
+  color: white;
+  width: 30px;
+}
+.p62-s3 {
+  display: block;
+  position: absolute;
+  top: 200px;
+  left: 1040px;
+  color: white;
+  width: 30px;
+  line-height: 75px;
+}
+.p71-s3 {
+  display: block;
+  position: absolute;
+  top: 145px;
+  left: 1215px;
+  color: white;
+  width: 30px;
+}
+.p72-s3 {
+  display: block;
+  position: absolute;
+  top: 200px;
+  left: 1235px;
+  color: white;
+  width: 30px;
+  line-height: 75px;
+}
+/* СЕКЦИЯ-4 */
+.section-4 {
+  display: flex;
+  background-image: url("../images/back3.svg");
+  width: 1439px;
+  height: 729px;
+  position: relative;
+}
+/*
+.section-4::after {
+  content: "";
+  position: absolute;
+  width: 1439px;
+  height: 805px;
+  top: 0;
+  left: 0;
+  background-image: url("../images/4.png");
+  opacity: 20%;
+}
+  */
+.lang1-s4 {
+  display: block;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  width: 1439px;
+}
+.lang-img-s4 {
+  position: absolute;
+  top: 187px;
+  left: 0px;
+  width: 1439px;
+}
+.lang2-s4 {
+  display: block;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  width: 484px;
+  text-align: center;
+}
+.tea-img-s4 {
+  display: block;
+  position: absolute;
+  top: 60px;
+  left: 430px;
+  width: 484px;
+}
+.t1-s4 {
+  display: block;
+  position: absolute;
+  top: 395px;
+  left: 465px;
+  width: 48px;
+  font-size: 28px;
+  font-weight: 600;
+  line-height: 28px;
+}
+.t2-s4 {
+  display: block;
+  position: absolute;
+  top: 523px;
+  left: 772px;
+  width: 48px;
+  font-size: 28px;
+  font-weight: 600;
+  line-height: 28px;
+  text-align: center;
+  transform: rotate(15deg);
+}
+.t2-s4-id {
+  font-size: 40px;
+}
+/* СЕКЦИЯ-5 */
+.section-5 {
+  display: flex;
+  background-color: white;
+  width: 1439px;
+  height: 934px;
+  position: relative;
+}
+/*
+.section-5::after {
+  content: "";
+  position: absolute;
+  width: 1439px;
+  height: 934px;
+  top: 0;
+  left: 0;
+  background-image: url("../images/5.svg");
+  opacity: 20%;
+}
+  */
+.h1-s5-div {
+  display: block;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  width: 400px;
+}
+.h1-s5 {
+  display: block;
+  position: absolute;
+  top: 45px;
+  left: 360px;
+  width: 500px;
+}
+.table-s5 {
+  display: inline-block;
+  position: absolute;
+  top: 110px;
+  left: 340px;
+  width: 760px;
+  height: 760px;
+  border: 10px solid black;
+}
+.tr-s5 {
+  display: block;
+  width: 745px;
+  height: 82px;
+}
+.tr-s5 th {
+  width: 82px;
+  height: 82px;
+  border: 7px solid black;
+}
+.tr-s5 th {
+  text-align: center;
+  padding-top: 23px;
+}
+#medal-s5 {
+  display: block;
+  position: absolute;
+  top: -40px;
+  left: 940px;
+}
+#medal-s5 .medal-s5-h1 {
+  display: block;
+  position: absolute;
+  top: 95px;
+  left: 60px;
+  width: 200px;
+  font-size: 28px;
+  font-weight: 600;
+  line-height: 28px;
+  color: white;
+}
+#hands-s5 {
+  display: block;
+  position: absolute;
+  top: 238px;
+  left: 0px;
 }
