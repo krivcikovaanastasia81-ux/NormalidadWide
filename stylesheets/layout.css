@@ -1002,18 +1002,103 @@ p {
 /* СЕКЦИЯ-11 */
 .section-11 {
   display: flex;
-  background-image: url("../images/back7.svg");
+  background-image: url("../images/back8.svg");
   width: 1439px;
-  height: 1403px;
+  height: 990px;
   position: relative;
 }
+/*
 .section-11::after {
   content: "";
   position: absolute;
   width: 1439px;
-  height: 1403px;
+  height: 990px;
   top: 0;
   left: 0;
-  background-image: url("../images/10.svg");
+  background-image: url("../images/11.svg");
   opacity: 20%;
+}
+*/
+.div-s11 {
+  display: block;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  width: 400px;
+}
+.img-s11 {
+  display: block;
+  position: absolute;
+  top: 325px;
+  left: 990px;
+}
+.h1-s11 {
+  display: block;
+  position: absolute;
+  top: 415px;
+  left: 1015px;
+  font-size: 20px;
+  font-weight: 800;
+  line-height: 20px;
+  transform: rotate(-10deg);
+}
+.div-s11-1 {
+  display: block;
+  position: absolute;
+  top: 800px;
+  left: 185px;
+}
+.div-s11-2 {
+  display: block;
+  position: absolute;
+  top: 800px;
+  left: 770px;
+}
+.p-s11-1 {
+  display: block;
+  position: absolute;
+  padding-top: 10px;
+}
+/* СЕКЦИЯ-12 */
+.section-12 {
+  display: flex;
+  background-image: url("../images/12.svg");
+  width: 1439px;
+  height: 683px;
+  position: relative;
+}
+/*
+.section-12::after {
+  content: "";
+  position: absolute;
+  width: 1439px;
+  height: 683px;
+  top: 0;
+  left: 0;
+  background-image: url("../images/13.svg");
+  opacity: 20%;
+}
+*/
+.div-s12-1 {
+  display: block;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  width: 400px;
+}
+.h1-s12 {
+  display: block;
+  position: absolute;
+  top: 547px;
+  left: 125px;
+  font-size: 20px;
+  font-weight: 400;
+  line-height: 40px;
+  color: rgb(255, 255, 255);
+}
+.img-s12 {
+  display: block;
+  position: absolute;
+  top: 557px;
+  left: 1185px;
 }
