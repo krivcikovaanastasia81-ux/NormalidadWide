@@ -51,6 +51,10 @@ p {
   top: 40px;
   left: 120px;
   width: 90px;
+  transition: transform 0.5s ease;
+}
+.logo-s1 .logo-s1-logo:hover {
+  transform: rotate(360deg);
 }
 .line-s1 {
   position: absolute;
@@ -458,11 +462,19 @@ p {
   text-align: center;
   padding-top: 23px;
 }
+.tr-s5 th:hover {
+  background-color: rgba(195, 27, 28, 1);
+  color: white;
+}
 #medal-s5 {
   display: block;
   position: absolute;
   top: -40px;
   left: 940px;
+  transition: transform 0.5s ease;
+}
+#medal-s5:hover {
+  transform: rotate(360deg);
 }
 #medal-s5 .medal-s5-h1 {
   display: block;
@@ -911,12 +923,18 @@ p {
   left: 155px;
   transform: rotate(-90deg);
 }
+#p1-s10:hover {
+  color: rgba(195, 27, 28, 1);
+}
 #p2-s10 {
   display: block;
   position: absolute;
   top: 753px;
   left: 275px;
   transform: rotate(0deg);
+}
+#p2-s10:hover {
+  color: rgba(195, 27, 28, 1);
 }
 #p3-s10 {
   display: block;
@@ -925,12 +943,18 @@ p {
   left: 533px;
   transform: rotate(0deg);
 }
+#p3-s10:hover {
+  color: rgba(195, 27, 28, 1);
+}
 #p4-s10 {
   display: block;
   position: absolute;
   top: 520px;
   left: 613px;
   transform: rotate(0deg);
+}
+#p4-s10:hover {
+  color: rgba(195, 27, 28, 1);
 }
 #p5-s10 {
   display: block;
@@ -939,12 +963,18 @@ p {
   left: 772px;
   transform: rotate(0deg);
 }
+#p5-s10:hover {
+  color: rgba(195, 27, 28, 1);
+}
 #p6-s10 {
   display: block;
   position: absolute;
   top: 520px;
   left: 985px;
   transform: rotate(0deg);
+}
+#p6-s10:hover {
+  color: rgba(195, 27, 28, 1);
 }
 #p7-s10 {
   display: block;
@@ -953,12 +983,18 @@ p {
   left: 1230px;
   transform: rotate(-90deg);
 }
+#p7-s10:hover {
+  color: rgba(195, 27, 28, 1);
+}
 #p8-s10 {
   display: block;
   position: absolute;
   top: 650px;
   left: 1230px;
   transform: rotate(-90deg);
+}
+#p8-s10:hover {
+  color: rgba(195, 27, 28, 1);
 }
 .p-s10-1 {
   display: block;
@@ -1048,16 +1084,33 @@ p {
   top: 800px;
   left: 185px;
 }
+.div-s11-1:hover {
+  color: rgba(195, 27, 28, 1);
+}
 .div-s11-2 {
   display: block;
   position: absolute;
   top: 800px;
   left: 770px;
 }
+.div-s11-2:hover {
+  color: rgba(195, 27, 28, 1);
+}
 .p-s11-1 {
   display: block;
   position: absolute;
   padding-top: 10px;
+}
+.p-s11-1:hover {
+  color: rgba(195, 27, 28, 1);
+}
+.p-s11-2 {
+  display: block;
+  position: absolute;
+  padding-top: 10px;
+}
+.p-s11-2:hover {
+  color: rgba(195, 27, 28, 1);
 }
 /* СЕКЦИЯ-12 */
 .section-12 {
@@ -1096,9 +1149,16 @@ p {
   line-height: 40px;
   color: rgb(255, 255, 255);
 }
+.h1-s12:hover {
+  color: rgba(195, 27, 28, 1);
+}
 .img-s12 {
   display: block;
   position: absolute;
   top: 557px;
   left: 1185px;
+  transition: transform 0.5s ease;
+}
+.img-s12:hover {
+  transform: rotate(360deg);
 }
